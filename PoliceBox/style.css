@@ -1,0 +1,21 @@
+/* Font Family For Text*/
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+/*Background Style*/
+body {
+    margin: 2em;
+    padding: 7.0em;
+    font-family: 'Poppins', sans-serif;
+    background: yellow;
+    text-align: center;
+    border: 10px solid black;
+}
+
+/*Style Divs*/
+div {
+    margin: auto;
+    width: 80%;
+    box-shadow: 0 0 15px red;
+    padding: 1em;
+    background: green;
+}
