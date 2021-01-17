@@ -1,0 +1,34 @@
+{
+  "seasoning": {
+    "url": "https://raw.github.com/sinker/tacofancy/master/seasonings/taco_and_fajita.md",
+    "recipe": "Kathy's Taco and Fajita Seasoning\n=================================\n\nMy cousin Kathy sent me this recipe for my birthday:\n\nAmazing taco/fajita seasoning – Use with any protein.  It's a great recipe to quadruple so you have it ready for immediate taco needs. When making a big batch, use less salt.\n\nCombine:\n\n2 tsp cumin\n1 tsp EACH: paprika, onion powder, dried oregano, and kosher salt\n½ tsp EACH: ground coriander, garlic powder and black pepper\n¼ tsp EACH: red pepper flakes, ground ginger and cayenne pepper\n\ntags: vegetarian, vegan\n",
+    "slug": "kathys_taco_and_fajita_seasoning",
+    "name": "Kathy's Taco and Fajita Seasoning"
+  },
+  "condiment": {
+    "url": "https://raw.github.com/sinker/tacofancy/master/condiments/salsa_de_aguacate.md",
+    "recipe": "Salsa de Aguacate\n==========\n\nThis is the traditional green sauce served from a Mexican taco cart. Very popular with Tacos al Pastór or Tacos de Canasta, it is a creamy, green sauce. It has avacado, but it by no means a guacamole. Usually available with other taco cart staples such as: sliced radishes, spicy salsa roja, fresh cilantro, and fresh limes.\n\n* 1/2 Kilo of Green Tomatillos (~1lb.)\n* 2 green Serrano peppers (optional for heat)\n* 1 avocado\n* 2 limes\n* 1/2 cup crema (Mexican sour cream, thinner and sweeter than standard sour cream)\n\nCook the tomatillos and peppers in a pot with water until soft. Drain the water out and let cool.\n\nPut tomatillos, peppers, salt, lime-juice, crema, and avacado (shelled and pitted) in blender. With lid on, blend until completely mixed and liquid consistency. Salsa should be the consistency of crema, liquid, yet slightly viscous.\n\nPour over your tacos liberally. Refrigerate between uses.\n\ntags: vegetarian\n",
+    "slug": "salsa_de_aguacate",
+    "name": "Salsa de Aguacate"
+  },
+  "mixin": {
+    "url": "https://raw.github.com/sinker/tacofancy/master/mixins/mushroom_wasabi_salad.md",
+    "recipe": "#Sauted Shitake Mushroom and Wasabi Salad\n\n\n- 1 cup dried shitake mushrooms \n- Splash of soy sauce\n- Splash of red wine vinegar\n- Splash of olive oil\n- Wasabi-covered sesame seeds (available at the local Asian mart. If you can't find it, sub just a smidge of wasabi)\n- Pinch of salt\n\nPlace shitakes in a bowl and cover with warm water. Soak for about 20 minutes or until shitakes are completely rehydrated. Remove mushrooms and squeeze excess water from them. They don't need to be completely dry, but shouldn't be sopping wet.\n\nHeat olive oil over medium-high heat in a small frying pan. Throw in soy sauce and red wine vinegar. How much depends on your taste. I would start with a tablespoon of each and adjust from there. I like the salad to be a bit more acidic so I tend to add a splash more of the red wine vinegar. Sauté mushrooms for a couple of minutes until they are heated through. Season to taste with salt. Adjust soy sauce and red wine vinegar as needed. Before serving, sprinkle a little bit of the wasabi-covered sesame seeds over the mushrooms to impart a little color, crunchiness, and heat. If you are unable to find wasabi-covered sesame seeds, a dab of wasabi and sprinkle of plain sesame seeds should do the trick. \n\nNote: I keep dried shitakes as a staple in my pantry. I love the fact that the water left over after you rehydrate the mushrooms is called mushroom liquor. Mushroom liquor can be used as a substitute for broth or water in many recipes to impart an lovely mushroomy flavor.",
+    "slug": "mushroom_wasabi_salad",
+    "name": "Mushroom Wasabi Salad"
+  },
+  "base_layer": {
+    "url": "https://raw.github.com/sinker/tacofancy/master/base_layers/chopped_pork.md",
+    "recipe": "Chopped Pork\n=============\n\nThis is a quick and easy way to prep and cook your pork for tacos.\n\nYou need:\n\n* pork chops, boneless, don't go too crazy thick, around 1-2\" tops.\n* kitchen scissors\n\nDo you see where this is going? Cut up your chops unevenly with the scissors. Go for an average of chopped bits around 1\" in size or so, but variation is good, especially little bits. Those little bits are going to turn into crispy bits of goodness. When you..\n\nToss all this into a high-heat pan (cast iron, if you've got it) and fry it up so that it chars up real nice. The little bits will turn into little charred chunks--this is a feature, not a bug.\n\nPrior to the pan-tossing, you should spice up your pork with a good rub or marinade. If you're looking, I recommend the [sriracha marinade](/seasonings/sriracha_marinade.md).\n",
+    "slug": "chopped_pork",
+    "name": "Chopped Pork"
+  },
+  "shell": {
+    "url": "https://raw.github.com/sinker/tacofancy/master/shells/hard_corn_traditional_us.md",
+    "recipe": "Hard Corn Shells (Traditional; US)\n======================\n\nMistakenly thought by many to be traditionally Mexican, hard shells were actually popularized in the US in the mid-20th century.\n\nWhile they can certainly be made at home (if you have access to a deep-fryer), the best method of obtaining hard taco shells is to head to the grocery store.\n\nIf you line them with a lettuce leaf rather than using chopped lettuce, when the shell cracks you won't lose the contents into your lap.\n\ntags: vegetarian\n",
+    "slug": "hard_corn_shells_traditional_us",
+    "name": "Hard Corn Shells (Traditional; US)"
+  }
+}
+
+  
