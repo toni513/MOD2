@@ -1,0 +1,35 @@
+/*Add image and style to font*/
+body {
+    background-image: url('./images/pizza1.jfif');
+    font-family: 'Hachi Maru Pop',
+        cursive;
+    font-weight: bold;
+}
+
+/*Postion wrapper for added list items*/
+li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/*Style Input Boxes*/
+input {
+    background-color: darkgrey;
+    margin: 10px;
+    padding: 12px;
+    font-size: 18px;
+}
+
+/*Style Remove button*/
+.remove-button {
+    margin-left: 1rem;
+    border: solid red;
+    border-radius: 25px;
+}
+
+/*Stye Add button*/
+.submit-button {
+    border: solid green;
+    border-radius: 25px;
+}
