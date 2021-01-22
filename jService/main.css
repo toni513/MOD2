@@ -1,0 +1,147 @@
+/*Import google font for the App*/
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+/*Style for the page*/
+body {
+    background-color: #3e5f73;
+    font-family: 'Krona One', sans-serif;
+}
+
+/*Align all text in className'container'*/
+.container {
+    text-align: center;
+}
+
+/*Style for 'Welcome To Jeopardy'*/
+h1 {
+    color: white;
+    font-size: 45px;
+}
+
+/* Style for 'Lets Play'*/
+h2 {
+    font-size: 30px;
+    color: #ead37a;
+}
+
+/*Style for Score*/
+.score {
+    font-size: 35px;
+    color: #ead37a;
+}
+
+/*Style for Decrease Button*/
+.decrease-button {
+    padding: 8px 5px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: pink;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+    margin-left: 5px;
+}
+
+/*Style for Increase Button*/
+.increase-button {
+    padding: 8px 5px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    margin-left: 5px;
+    border: none;
+}
+
+/*Style for Reset Button*/
+.score-reset-button {
+    padding: 8px 5px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    margin-left: 5px;
+}
+
+/*Style for Reset Question Button*/
+#question-reset-button {
+    padding: 8px 5px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: purple;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    margin-left: 5px;
+}
+
+/*Style for Question Button */
+.question-button {
+    padding: 8px 12px;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: #ead37a;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+
+/*Style for Answer Button*/
+.answer-button {
+    padding: 15px 82px;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: #1b2650;
+    color: white;
+    border: none;
+}
+
+/*Style for Question that appears when question-button is clicked*/
+.question {
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/*Style for Category of Question*/
+.category {
+    font-size: 22px;
+    color: #ead37a;
+    font-weight: bold;
+}
+
+/*Style for value of Question Value*/
+#score-val {
+    font-size: 35px;
+    color: lightgreen;
+}
+
+/*Style for Question Category*/
+#category-type {
+    font-size: 20px;
+    color: lightgreen;
+}
+
+/*Style for Points Value*/
+#point-val {
+    font-size: 16px;
+    color: lightgreen;
+}
+
+/*Style for Points*/
+.points {
+    font-size: 18px;
+    color: #ead37a;
+    font-weight: bold;
+}
+
+/*Style for Answer that appears when answer-button is clicked*/
+.answer {
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
