@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Inline');
+
+
+:root {
+    --blue-greige: #919098;
+    --dark-orange: #ff8c00;
+    --dim-grey: #696969;
+    --light-grey: #d3d3d3;
+}
+
+*    {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Bungee Inline';
+    margin: 0;
+    background-image: url("bbq.jfif");
+    background-position: center;
+}
+
+h1 {
+    font-family: 'Bungee Inline';
+    text-align: center;
+    background-color: var(--dark-orange);
+    color: black;
+    margin-top: 0;
+    padding: 1em;
+    width: 100%;
+}
+
+h2 {
+    transition-duration: 2s;
+    text-align: center;
+    width: 100%;
+    margin-top: 0;
+}
+
+h3,
+h4,
+h5 {
+    text-align: center;
+}
+
+form {
+    flex-basis: 46%;
+    vertical-align: top;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    margin-right: 0;
+}
+
+ul {
+    padding: 0;
+}
+
+label {
+    flex-basis: 20%;
+}
+
+input[type='text'],
+textarea,
+input[type='number'] {
+    flex-basis: 68%;
+    margin: 0.2em;
+}
+
+input[type='submit'] {
+    flex-basis: 38%;
+    margin: 2em;
+    align-self: center;
+    padding: 0.5em;
+}
+
+div {
+    box-sizing: border-box;
+    display: inline-block;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container>div {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.preview {
+    flex-basis: 46%;
+    margin-right: 0.5em;
+}
+
+.products,
+.cart {
+    flex-basis: 46%;
+    margin: 0.5em;
+}
+
+li {
+    list-style: none;
+    padding: 0.3em;
+    text-align: center;
+}
+
+li:nth-child(odd) {
+    background: var(--dim-grey);
+    color: var(--light-grey);
+}
